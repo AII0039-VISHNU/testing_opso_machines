@@ -8,7 +8,7 @@ REMOTE_DIR="/sec/root/"
 
 PASSWORD="segfault"
 
-DECRYPT_PASSWORD="tMQunQSBGiu12yvI2dDsBByriVsQ/NVYLc45pNnWiZMdWTblwJfOcklI5gJuizgJ"
+DECRYPT_PASSWORD="123456789hgfdrhjkl"
 
 FOLDER_NAME=$(basename "$LOCAL_FILE")
 
